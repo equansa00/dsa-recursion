@@ -63,5 +63,3 @@ Contributions to the repository are welcome! If you have a suggestion or an impr
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 ```
-
-This `README.md` file provides a brief description of the exercises, how to get started, and links to additional resources and solutions.
